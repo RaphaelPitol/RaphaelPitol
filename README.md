@@ -6,7 +6,7 @@ My name is Raphael
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Diocesan Mitra and also as a trainer at Gov Facil
-- 🌱 I’m currently learning Java, PhP, HTML, CSS, JavaScript, React and NodeJs
+- 🌱 I’m currently learning Java, PhP, HTML, CSS, JavaScript, React and NodeJs.....
 
   
   <img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
